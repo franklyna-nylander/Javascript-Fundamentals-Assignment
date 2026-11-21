@@ -3,7 +3,7 @@
 let rawEmail = "Student.DICT@Limkokwing.EDU.SL"
 
 //Change email to lowercase and check if it includes limkokwing
-console.log(rawEmail.toLowerCase().includes("imkokwing"));
+console.log(rawEmail.toLowerCase().includes("limkokwing"));
 console.log("*********************")
 
 // check the email length
