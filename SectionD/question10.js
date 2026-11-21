@@ -9,7 +9,7 @@ let hotelRoom = {
 };
 
 // Calculate total bill
-totalBill = hotelRoom.pricePerNight * hotelRoom.night;
+let totalBill = hotelRoom.pricePerNight * hotelRoom.night;
 
 console.log(`Amenities: ${hotelRoom.amenities}`);
 console.log("****************************\n");
